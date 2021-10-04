@@ -34,5 +34,7 @@ password: admin
 ## Thank you
 
 Thanks `nextjs.com` for blog template.
+
 Thanks `vercel.com` for free deployment.
+
 Thanks `amplication.com` for awesome no-code backend.
